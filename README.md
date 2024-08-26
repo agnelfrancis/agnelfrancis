@@ -21,7 +21,7 @@ I'm a passionate **Frontend Developer** from Velur, Thrissur, Kerala, India. I l
 ## Projects
 
 - **[Ente Nadu:](https://sarvodayam.in/entenadu)** A web project designed for Sarvodayam School, focusing on creating a platform for educational purposes with a minimalist and effective UI.
-- **Bussily:** A web app for viewing bus routes and schedules in Velur, designed with smooth animations and a clean interface to help users get the next 4 upcoming buses.
+- **[Bussily:](https://busilier.netlify.app/)** A web app for viewing bus routes and schedules in Velur, designed with smooth animations and a clean interface to help users get the next 4 upcoming buses.
 
 ## Let's Connect
 
